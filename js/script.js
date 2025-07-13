@@ -13,7 +13,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'NHK for School', category: '学び', imageUrl: 'images/nhkforschool.png', appUrl: 'https://www.nhk.or.jp/school/' },
         { title: '動物図鑑', category: '学び', imageUrl: 'images/animalcatalog.png', appUrl: 'https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/zuroku/index.html' },
         { title: 'e-board', category: '学び', imageUrl: 'images/e-board.png', appUrl: 'https://www.eboard.jp/dashboard/' },
-        { title: '人狼サポート', category: 'ボードゲーム', imageUrl: 'images/werewolf_game_support.png', appUrl: 'https://tagiiii.github.io/werewolf_game_support/' }
+        { title: '人狼サポート', category: 'ボードゲーム', imageUrl: 'images/werewolf_game_support.png', appUrl: 'https://tagiiii.github.io/werewolf_game_support/' },
+        { title: '2択質問ゲーム', category: 'アイスブレイク', imageUrl: 'images/multiple_choice_game.png', appUrl: 'https://tagiiii.github.io/multiple_choice_game/' }
     ];
 
     /**
