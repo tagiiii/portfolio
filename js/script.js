@@ -16,7 +16,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: '人狼GMサポート', category: 'ボードゲーム', imageUrl: 'images/werewolf_game_support.png', appUrl: 'https://tagiiii.github.io/werewolf_game_support/' },
         { title: '2択質問ゲーム', category: 'アイスブレイク', imageUrl: 'images/multiple_choice_game.png', appUrl: 'https://tagiiii.github.io/multiple_choice_game/' },
         { title: 'トークすごろく', category: 'アイスブレイク', imageUrl: 'images/talksugoroku.png', appUrl: 'https://tagiiii.github.io/talksugoroku/' },
-        { title: 'ワードウルフGMサポート', category: 'ボードゲーム', imageUrl: 'images/word_wolf.png', appUrl: 'https://tagiiii.github.io/word_wolf/' }
+        { title: 'ワードウルフGMサポート', category: 'ボードゲーム', imageUrl: 'images/word_wolf.png', appUrl: 'https://tagiiii.github.io/word_wolf/' },
+        { title: '名前変えゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/name_change_game.png', appUrl: 'https://tagiiii.github.io/name_change_game/' }
     ];
 
     /**
