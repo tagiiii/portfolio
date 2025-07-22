@@ -20,7 +20,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: '名前変えゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/name_change_game.png', appUrl: 'https://tagiiii.github.io/name_change_game/' },
         { title: '性格×進路ガイド', category: '進路サポート', imageUrl: 'images/personality_and_career_path_guide.png', appUrl: 'https://tagiiii.github.io/personality_and_career_path_guide/' },
         { title: 'インサイダーゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/insider_game.png', appUrl: 'https://tagiiii.github.io/insider_game/' },
-        { title: 'ジェスチャーゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/gesture_game.png', appUrl: 'https://tagiiii.github.io/gesture_game/' }
+        { title: 'ジェスチャーゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/gesture_game.png', appUrl: 'https://tagiiii.github.io/gesture_game/' },
+        { title: 'お題当てゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/guess_the_word_game.png', appUrl: 'https://tagiiii.github.io/guess_the_word_game/' }
     ];
 
     /**
