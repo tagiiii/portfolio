@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'インサイダーゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/insider_game.png', appUrl: 'https://tagiiii.github.io/insider_game/' },
         { title: 'ジェスチャーゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/gesture_game.png', appUrl: 'https://tagiiii.github.io/gesture_game/' },
         { title: 'お題当てゲームGMサポート', category: 'ボードゲーム', imageUrl: 'images/guess_the_word_game.png', appUrl: 'https://tagiiii.github.io/guess_the_word_game/' },
-        { title: 'だいたいこのくらいゲーム！', category: 'アイスブレイク', imageUrl: 'images/about_this_much_game.png', appUrl: 'https://tagiiii.github.io/about_this_much_game/' }
+        { title: 'だいたいこのくらいゲーム！', category: 'アイスブレイク', imageUrl: 'images/about_this_much_game.png', appUrl: 'https://tagiiii.github.io/about_this_much_game/' },
+        { title: 'どっちがホントゲーム！', category: 'アイスブレイク', imageUrl: 'images/which_is_true.png', appUrl: 'https://tagiiii.github.io/which_is_true/' }
     ];
 
     /**
