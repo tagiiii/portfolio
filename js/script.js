@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'だいたいこのくらいゲーム！', category: 'アイスブレイク', imageUrl: 'images/about_this_much_game.png', appUrl: 'https://tagiiii.github.io/about_this_much_game/' },
         { title: 'どっちがホントゲーム！', category: 'アイスブレイク', imageUrl: 'images/which_is_true.png', appUrl: 'https://tagiiii.github.io/which_is_true/' },
         { title: 'このアイテムでどうします？ゲーム！', category: 'ボードゲーム', imageUrl: 'images/now_what_to_do.png', appUrl: 'https://tagiiii.github.io/now_what_to_do/' },
-        { title: 'ミミトレ！', category: 'SST', imageUrl: 'images/mimi_training.png', appUrl: 'https://tagiiii.github.io/mimi_training/' }
+        { title: 'ミミトレ！', category: 'SST', imageUrl: 'images/mimi_training.png', appUrl: 'https://tagiiii.github.io/mimi_training/' },
+        { title: 'SSTカード', category: 'SST', imageUrl: 'images/sst_card.png', appUrl: 'https://tagiiii.github.io/sst_card/' }
     ];
 
     /**
